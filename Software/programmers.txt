@@ -1,0 +1,11 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+
+usbtinyisp.name=Demiduino USBtinyISP
+usbtinyisp.protocol=usbtiny
+
+
+arduinoisp.name=Arduino as ISP
+arduinoisp.communication=serial
+arduinoisp.protocol=stk500v1
+arduinoisp.speed=19200
