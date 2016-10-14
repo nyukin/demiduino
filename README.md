@@ -68,8 +68,7 @@ To make the IDE work, I also have
 recompiled avrdude 6, changing the
 USBispTiny VID/PID pair to my own
 as well. Then I drop the new
-avrdude bin into ./Contents/Resourc
-es/Java/hardware/tools/avr/bin.
+avrdude bin into ./Contents/Resources/Java/hardware/tools/avr/bin.
 This is the same path for the
 avrdude.conf file. Basically I
 forked the Adafruit Trinket Arduino
